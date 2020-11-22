@@ -104,15 +104,8 @@ header {
    color: gold;
 }
 
-.banner-college h3{
-    background: gold;
-    position: absolute;
-    /* color: white; */
-    padding: 10px 15px;
-    border: solid 2px rgb(12, 175, 12);
-    -webkit-box-shadow: -1px 7px 34px -5px rgba(0,0,0,0.75);
-    -moz-box-shadow: -1px 7px 34px -5px rgba(0,0,0,0.75);
-    box-shadow: -1px 7px 34px -5px rgba(0,0,0,0.75);
+.banner-name h3{
+    font-weight: bold;
 }
 
 #vmgo {
